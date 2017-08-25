@@ -6,3 +6,5 @@ R scripts for reporting and visualization
 2. "bicluster_gplots.R": code for making a biclustering heatmap plot using "gplots".
 
 3. "plot_table.R": code for making a coloful cross-table.
+
+4. "Anova_Tukey_Qvalue.R": ANOVA model for each row of a large dataset, followed by TuKey HSD test for pair-wise comparisons, finally corrected for multiple testing using Qvalue.
