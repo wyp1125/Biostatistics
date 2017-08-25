@@ -7,4 +7,4 @@ R scripts for reporting and visualization
 
 3. "plot_table.R": code for making a coloful cross-table.
 
-4. "Anova_Tukey_Qvalue.R": ANOVA model for each row of a large dataset, followed by TuKey HSD test for pair-wise comparisons, finally corrected for multiple testing using Qvalue.
+4. "Anova_Tukey_Qvalue.R": ANOVA model for each row of a large dataset, followed by TuKey HSD test for pair-wise comparisons and then multiple testing correction using Qvalue. Visulization using histograms. 
